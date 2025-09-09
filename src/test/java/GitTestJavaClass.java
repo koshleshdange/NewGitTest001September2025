@@ -9,7 +9,7 @@ public class GitTestJavaClass
             {
                 reverse = reverse + name.charAt(i);
             }
-            System.out.println(reverse);
+            System.out.println("Normal for loop reverse :" +reverse);
 
             if (name.equals(newReverse))
             {
