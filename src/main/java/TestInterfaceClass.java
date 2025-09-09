@@ -7,7 +7,8 @@
        public static void main(String[] args) {
            Dog dogObj = new Dog();
            dogObj.testMethod("Bruno");
-           dogObj.testMethod("tomy");
+           dogObj.testMethod("Tomy");
+           dogObj.testMethod("Jack");
        }
    }
 
